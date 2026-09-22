@@ -1,0 +1,6 @@
+{
+  "name": "Ludo King Pro",
+  "description": "Real-time multiplayer Ludo game with voice chat, coin staking, leaderboards, fair-play anti-cheat, offline AI mode, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
